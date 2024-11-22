@@ -1,0 +1,5 @@
+
+ADD AWS
+ADD OAUTH2, allows for google,facebook,etc logins
+ADD DOCKER
+ADD 2 FACTOR
